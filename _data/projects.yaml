@@ -1,54 +1,43 @@
 projects:
-  - title: "Detecting Network Effects"
-    subtitle: "Randomizing Over Randomized Experiments"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
-    selected: y
 
-  - title: "Human Atlas"
-    subtitle: "Tool for Mapping Social Networks"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
-    selected: y
-
-  - title: "Responsive Communities"
-    subtitle: "Pilot project in Jun, Spain"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
-    selected: y
-
-  - title: "Cold-Start Recommendations"
-    subtitle: "Learning Local Collective Embeddings"
-    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
-    url: "projects/2014_item-cold-start.html"
-    selected: n
-
-  - title: "Semi-supervised Learning"
-    subtitle: "Iterative Hybrid Algorithm"
-    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
-    url: "projects/2013_iterative-hybrid-algorithm.html"
-    selected: n
-
-  - title: "Twitter Sentiment Analysis"
-    subtitle: "Analyzing Financial Tweets"
-    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
-    url: "projects/2011_twitter-sentiment-analysis.html"
-    selected: n
-
-  - title: "Wordnet Construction"
-    subtitle: "Automatic Wordnet Construction using Language Models"
+  - title: "Hypocoristic Formation Rules in Korean"
+    subtitle: "Morphology data analysis"
     thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
     url: "projects/2010_wordnet-contruction.html"
-    selected: n
+    subject: lin
 
-  - title: "Fingerprint Verification"
-    subtitle: "Image processing class project"
-    thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
-    url: "projects/2010_fingerprint-verification.html"
-    selected: n
+  - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
+    subtitle: "Cross-linguistic sound symbolism research"
+    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
+    url: "projects/2011_twitter-sentiment-analysis.html"
+    subject: lin
 
-  - title: "Connect Four AI Agent"
-    subtitle: "Iterative deepening and alpha-beta pruning"
-    thumbnail: "assets/projects/2009_connect-four/thumbnail.png"
-    url: "projects/2009_connect-four.html"
-    selected: n
+  - title: "The Grinnell College Experience"
+    subtitle: "A top-down 2D Role-Playing Game (RPG) mobile game development"
+    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
+    url: "projects/2013_iterative-hybrid-algorithm.html"
+    subject: cs
+
+  - title: "An Artificial Language Learning Exploration in Affix Experiments"
+    subtitle: "Literature review in artificial language learning"
+    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
+    url: "projects/2014_item-cold-start.html"
+    subject: lin
+
+  - title: "Pedagogical Implication of Digital Games in Second Language Acquisition"
+    subtitle: "Literature review in game-based learning and second language acquisition"
+    thumbnail: "assets/projects/2015_jun/thumbnail.png"
+    url: "projects/2015_jun.html"
+    subject: lin
+
+  - title: "Snake Game"
+    subtitle: "Simple 2D game development"
+    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
+    url: "projects/2016_human-atlas.html"
+    subject: cs
+    
+  - title: "Replication of Origin in Mitochondria"
+    subtitle: "Algorithms for predicting replication origins in mitochondria"
+    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    url: "projects/2016_network-ab-testing.html"
+    subject: cs
