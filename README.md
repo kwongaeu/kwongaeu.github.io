@@ -1,4 +1,6 @@
-# Martin Saveski's Website
+# Autumn Kwon's Website
+
+### This website is adapted from Martin Saveski's template.
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.

@@ -1,9 +1,9 @@
 experiences:
 
 - place: "Grinnell College"
-  time: "2019 - 2025"
+  time: "2019 - 2025 (Expected)"
   title: "B.A. Student"
-  subtitle: "Computing Science (Minor in Linguistics) <!--<br/> Early Graduation (7 semesters)-->"
+  subtitle: "Computer Science (Minor in Linguistics) <br/> Early Graduation (7 semesters)" 
   category: "school"
 
 - place: "Texas A&M University"
@@ -15,7 +15,7 @@ experiences:
 - place: "PiQuant Co., Ltd."
   time: "Jun 2022 - Mar 2023"
   title: "Student Firmware Developer"
-  <!--subtitle: "??"-->
+  subtitle: "Worked on portable spectroscopic analyzer development"
   category: "work"
 
 - place: "Korea University"
