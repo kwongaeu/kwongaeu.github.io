@@ -2,42 +2,42 @@ projects:
 
   - title: "Hypocoristic Formation Rules in Korean"
     subtitle: "Morphology data analysis"
-    thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
-    url: "projects/2010_wordnet-contruction.html"
+    thumbnail: ""
+    url: ""
     subject: lin
 
   - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
     subtitle: "Cross-linguistic sound symbolism research"
-    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
-    url: "projects/2011_twitter-sentiment-analysis.html"
+    thumbnail: ""
+    url: ""
     subject: lin
 
   - title: "The Grinnell College Experience"
     subtitle: "A top-down 2D Role-Playing Game (RPG) mobile game development"
-    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
-    url: "projects/2013_iterative-hybrid-algorithm.html"
+    thumbnail: "assets/projects/2024_grinnell-college-experience/thumbnail.png"
+    url: "https://github.com/The-Grinnell-College-Experience-Team/GCE-Backend"
     subject: cs
 
   - title: "An Artificial Language Learning Exploration in Affix Experiments"
     subtitle: "Literature review in artificial language learning"
-    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
-    url: "projects/2014_item-cold-start.html"
+    thumbnail: ""
+    url: ""
     subject: lin
 
   - title: "Pedagogical Implication of Digital Games in Second Language Acquisition"
     subtitle: "Literature review in game-based learning and second language acquisition"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    url: "projects/2015_jun.html"
+    thumbnail: "assets/projects/2023_gbl-sla/poster.JPG"
+    url: "assets/projects/2023_gbl-sla/poster.JPG"
     subject: lin
 
   - title: "Snake Game"
     subtitle: "Simple 2D game development"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
+    thumbnail: ""
+    url: "https://github.com/FairyBytes/snake-game"
     subject: cs
     
   - title: "Replication of Origin in Mitochondria"
     subtitle: "Algorithms for predicting replication origins in mitochondria"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
+    thumbnail: ""
+    url: "https://github.com/mitoOri"
     subject: cs
