@@ -13,7 +13,7 @@ projects:
     subject: lin
 
   - title: "The Grinnell College Experience"
-    subtitle: "@D Mobile Game Development"
+    subtitle: "2D Mobile Game Development"
     thumbnail: "assets/projects/2024_grinnell-college-experience/thumbnail.png"
     url: "https://github.com/The-Grinnell-College-Experience-Team/GCE-Backend"
     subject: cs
