@@ -32,7 +32,7 @@ projects:
 
   - title: "Snake Game"
     subtitle: "2D Game Development"
-    thumbnail: ""
+    thumbnail: "assets/projects/2020_snake-game/thumbnail.png"
     url: "https://github.com/FairyBytes/snake-game"
     subject: cs
     
