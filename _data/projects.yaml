@@ -19,13 +19,13 @@ projects:
     subject: cs
 
   - title: "An Artificial Language Learning Exploration in Affix Experiments"
-    subtitle: "Literature review in artificial language learning"
+    subtitle: "Literature review"
     thumbnail: ""
     url: ""
     subject: lin
 
   - title: "Pedagogical Implication of Digital Games in Second Language Acquisition"
-    subtitle: "Literature review in game-based learning and second language acquisition"
+    subtitle: "Literature review"
     thumbnail: "assets/projects/2023_gbl-sla/poster.JPG"
     url: "assets/projects/2023_gbl-sla/poster.JPG"
     subject: lin
