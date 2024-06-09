@@ -1,19 +1,19 @@
 projects:
 
   - title: "Hypocoristic Formation Rules in Korean"
-    subtitle: "Morphology data analysis"
+    subtitle: "Morphology Data Analysis"
     thumbnail: ""
     url: ""
     subject: lin
 
   - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
-    subtitle: "Cross-linguistic sound symbolism research"
+    subtitle: "Sound Symbolism Research"
     thumbnail: ""
     url: ""
     subject: lin
 
   - title: "The Grinnell College Experience"
-    subtitle: "A top-down 2D Role-Playing Game (RPG) mobile game development"
+    subtitle: "@D Mobile Game Development"
     thumbnail: "assets/projects/2024_grinnell-college-experience/thumbnail.png"
     url: "https://github.com/The-Grinnell-College-Experience-Team/GCE-Backend"
     subject: cs
@@ -31,13 +31,13 @@ projects:
     subject: lin
 
   - title: "Snake Game"
-    subtitle: "Simple 2D game development"
+    subtitle: "2D Game Development"
     thumbnail: ""
     url: "https://github.com/FairyBytes/snake-game"
     subject: cs
     
   - title: "Replication of Origin in Mitochondria"
-    subtitle: "Algorithms for predicting replication origins in mitochondria"
+    subtitle: "Bioinformatics Research"
     thumbnail: ""
     url: "https://github.com/mitoOri"
     subject: cs
