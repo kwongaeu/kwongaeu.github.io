@@ -1,5 +1,11 @@
 projects:
 
+  - title: "Verification of Sim-to-Real Transfer in RL-based End-to-End Autonomous Racing Using Visual Domain Randomization"
+    subtitle: "RL-Based Autonomous Racing Research"
+    thumbnail: ""
+    url: ""
+    subject: cs
+
   - title: "Hypocoristic Formation Rules in Korean"
     subtitle: "Morphology Data Analysis"
     thumbnail: ""
