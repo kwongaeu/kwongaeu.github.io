@@ -2,7 +2,7 @@ projects:
 
   - title: "Verification of Sim-to-Real Transfer in RL-based End-to-End Autonomous Racing Using Visual Domain Randomization"
     subtitle: "RL-Based Autonomous Racing Research"
-    thumbnail: ""
+    thumbnail: "/assets/projects/2024_sim-to-real/thumbnail.jpg"
     url: ""
     subject: cs
 
