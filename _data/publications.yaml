@@ -14,3 +14,18 @@ papers:
   #   data: "https://github.com/sanzeed/balanced_influence_maximization"
   #   selected: n
 
+  - title: "Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance"
+    authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
+    venue: "<b>Under Review</b>"
+    paper_pdf: ""
+    subject: "nlp"
+    selected: n
+
+  - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
+    authors: "Eleanor Glewwe, Ariana Furlong, Lu Johnston, Tanmaie Kailash, <b>Gaeul Kwon</b>, Zoe Zallek"
+    venue: "<b>Submitted</b> to LSA'25: Linguistic Society of America"
+    paper_pdf: "/assets/publications/2024_pokemonastics_abstract.pdf"
+    subject: "lin"
+    selected: n
+
+
