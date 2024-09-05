@@ -16,7 +16,7 @@ papers:
 
   - title: Anonymous
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
-    venue: "<b>Waiting Decision from EMNLP 2024</b>"
+    venue: "Waiting Decision from EMNLP 2024"
     paper_pdf: ""
     subject: "nlp"
     selected: n
