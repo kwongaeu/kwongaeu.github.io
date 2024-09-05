@@ -15,14 +15,14 @@ papers:
   #   selected: n
 
   - title: Anonymous
-    authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
+    authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, and Julia Hockenmaier"
     venue: "Waiting Decision from EMNLP 2024"
     paper_pdf: ""
     subject: "nlp"
     selected: n
 
   - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
-    authors: "Eleanor Glewwe, Ariana Furlong, Lu Johnston, Tanmaie Kailash, <b>Gaeul Kwon</b>, Zoe Zallek"
+    authors: "Eleanor Glewwe, Ariana Furlong, Lu Johnston, Tanmaie Kailash, <b>Gaeul Kwon</b>, and Zoe Zallek"
     venue: "Annual Meeting on Phonology 2024"
     paper_pdf: "/assets/publications/2024_pokemonastics_abstract.pdf"
     subject: "lin"
