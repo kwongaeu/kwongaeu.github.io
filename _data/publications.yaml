@@ -14,9 +14,9 @@ papers:
   #   data: "https://github.com/sanzeed/balanced_influence_maximization"
   #   selected: n
 
-  - title: Anonymous
+  - title: "Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance"
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, and Julia Hockenmaier"
-    venue: "Waiting Decision from EMNLP 2024"
+    venue: "EMNLP 2024 Findings"
     paper_pdf: ""
     subject: "nlp"
     selected: n
