@@ -54,6 +54,8 @@ h4 {
 
 /*  ================ Project styling  ================ */
 .project {
+  display: flex; /* Enable flexbox layout */
+  align-items: flex-start; /* Align items to the start */
   margin-bottom: 20px 
 }
 .project p {
@@ -66,12 +68,28 @@ h4 {
   border: 1px solid rgba(0,0,0,0.2);
   padding: 3px;
   transition: 0.3s;
+  flex: 0 0 auto; /* Prevents the image container from growing */
+  width: 150px; /* Set a fixed width for the image container */
+  height: 120px; /* Set a fixed height (adjust as needed) */
+  overflow: hidden; /* Hide any part of the image that exceeds the container */
+  display: flex; /* Enable flexbox */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+.project-image-container img {
+  width: 100%; /* Make the image fill the container width */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Remove any inline spacing */
+  object-fit: cover; /* Cover the container while maintaining aspect ratio */
 }
 .project-image-container:hover {
   transition: 0.3s;
 }
 .project-image-container:hover img {
   opacity: 0.4;
+}
+.project-content { /* New class to wrap title, subtitle, and buttons */
+  margin-left: 10px; /* Add space between image and content */
 }
 .project-caption {
   padding: 3px;

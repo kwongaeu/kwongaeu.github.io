@@ -128,6 +128,10 @@ title: Home
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
+            {% if paper.abstract %}
+              <a class="button" href="{{ paper.abstract | prepend: site.baseurl }}" target="_blank">Abstract</a>
+            {% endif %}
+
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
             {% endif %}
@@ -174,34 +178,37 @@ title: Home
     {% assign cs_projects = site.data.projects.projects | where: "subject", "cs" %}
     {% for project in cs_projects %}
         <div class="project">
-          <p class="title"><b>{{ project.title }}</b></p>
-          <p>{{ project.subtitle }}</p>
-          <!-- <p><i>{{ paper.venue }}</i></p> -->
-           <div class="paper-buttons">
-            {% if project.paper_pdf %}
-              <a class="button" href="{{ project.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
-            {% endif %}
+          <div class="project-image-container">
+            <img src="{{ project.thumbnail }}" class="u-max-full-width" />
+          </div>
+          <div class="project-content">
+            <p class="title"><b>{{ project.title }}</b></p>
+            <p>{{ project.subtitle }}</p>
+            <div class="paper-buttons">
+              {% if project.paper_pdf %}
+                <a class="button" href="{{ project.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+              {% endif %}
 
-            {% if project.slides %}
-              <a class="button" href="{{ project.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
+              {% if project.slides %}
+                <a class="button" href="{{ project.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+              {% endif %}
 
-            {% if project.poster %}
-              <a class="button" href="{{ project.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
+              {% if project.poster %}
+                <a class="button" href="{{ project.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+              {% endif %}
 
-            {% if project.video %}
-              <a class="button" href="{{ project.video }}" target="_blank">Video</a>
-            {% endif %}
+              {% if project.video %}
+                <a class="button" href="{{ project.video }}" target="_blank">Video</a>
+              {% endif %}
 
-            {% if project.code %}
-              <a class="button" href="{{ project.code }}" target="_blank">Code</a>
-            {% endif %}
+              {% if project.code %}
+                <a class="button" href="{{ project.code }}" target="_blank">Code</a>
+              {% endif %}
 
-            {% if project.data %}
-              <a class="button" href="{{ project.data }}" target="_blank">Data</a>
-            {% endif %}
-
+              {% if project.data %}
+                <a class="button" href="{{ project.data }}" target="_blank">Data</a>
+              {% endif %}
+            </div>
           </div>
         </div>
       {% endfor %}
@@ -210,34 +217,37 @@ title: Home
       {% assign cs_projects = site.data.projects.projects | where: "subject", "lin" %}
       {% for project in cs_projects %}
           <div class="project">
-            <p class="title"><b>{{ project.title }}</b></p>
-            <p>{{ project.subtitle }}</p>
-            <!-- <p><i>{{ paper.venue }}</i></p> -->
-             <div class="paper-buttons">
-              {% if project.paper_pdf %}
-                <a class="button" href="{{ project.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
-              {% endif %}
-  
-              {% if project.slides %}
-                <a class="button" href="{{ project.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-              {% endif %}
-  
-              {% if project.poster %}
-                <a class="button" href="{{ project.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-              {% endif %}
-  
-              {% if project.video %}
-                <a class="button" href="{{ project.video }}" target="_blank">Video</a>
-              {% endif %}
-  
-              {% if project.code %}
-                <a class="button" href="{{ project.code }}" target="_blank">Code</a>
-              {% endif %}
-  
-              {% if project.data %}
-                <a class="button" href="{{ project.data }}" target="_blank">Data</a>
-              {% endif %}
-  
+            <div class="project-image-container">
+              <img src="{{ project.thumbnail }}" class="u-max-full-width" />
+            </div>
+            <div class="project-content">
+              <p class="title"><b>{{ project.title }}</b></p>
+              <p>{{ project.subtitle }}</p>
+              <div class="paper-buttons">
+                {% if project.paper_pdf %}
+                  <a class="button" href="{{ project.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+                {% endif %}
+    
+                {% if project.slides %}
+                  <a class="button" href="{{ project.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+                {% endif %}
+    
+                {% if project.poster %}
+                  <a class="button" href="{{ project.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+                {% endif %}
+    
+                {% if project.video %}
+                  <a class="button" href="{{ project.video }}" target="_blank">Video</a>
+                {% endif %}
+    
+                {% if project.code %}
+                  <a class="button" href="{{ project.code }}" target="_blank">Code</a>
+                {% endif %}
+    
+                {% if project.data %}
+                  <a class="button" href="{{ project.data }}" target="_blank">Data</a>
+                {% endif %}
+              </div>
             </div>
           </div>
         {% endfor %}
