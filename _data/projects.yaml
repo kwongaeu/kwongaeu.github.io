@@ -1,9 +1,11 @@
 projects:
 
   - title: "Verification of Sim-to-Real Transfer in RL-based End-to-End Autonomous Racing Using Visual Domain Randomization"
-    subtitle: "RL-Based Autonomous Racing Research"
+    subtitle: "Reinforcement Learning-Based Autonomous Racing Research"
     thumbnail: "/assets/projects/2024_sim-to-real/thumbnail.jpg"
-    url: "/assets/projects/2024_sim-to-real/poster.pdf"
+    poster: "/assets/projects/2024_sim-to-real/poster.pdf"
+    paper_pdf: ""
+    code: ""
     subject: cs
 
   - title: "Hypocoristic Formation Rules in Korean"
@@ -12,16 +14,17 @@ projects:
     url: ""
     subject: lin
 
-  - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
-    subtitle: "Sound Symbolism Research"
-    thumbnail: "assets/projects/2024_pokemonastics/thumbnail.png"
-    url: "assets/projects/2024_pokemonastics/thumbnail.png"
-    subject: lin
+  # - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
+  #   subtitle: "Sound Symbolism Research"
+  #   thumbnail: "assets/projects/2024_pokemonastics/thumbnail.png"
+  #   url: "assets/projects/2024_pokemonastics/thumbnail.png"
+  #   subject: lin
 
   - title: "The Grinnell College Experience"
     subtitle: "2D Mobile Game Development"
     thumbnail: "assets/projects/2024_grinnell-college-experience/thumbnail.png"
     url: "https://softarchitech.cs.grinnell.edu/the-grinnell-college-experience/"
+    code: "https://github.com/The-Grinnell-College-Experience-Team"
     subject: cs
 
   - title: "An Artificial Language Learning Exploration in Affix Experiments"
@@ -33,17 +36,17 @@ projects:
   - title: "Pedagogical Implication of Digital Games in Second Language Acquisition"
     subtitle: "Literature review"
     thumbnail: "assets/projects/2023_gbl-sla/poster.JPG"
-    url: "assets/projects/2023_gbl-sla/poster.JPG"
+    poster: "assets/projects/2023_gbl-sla/poster.JPG"
     subject: lin
 
   - title: "Snake Game"
     subtitle: "2D Game Development"
     thumbnail: "assets/projects/2020_snake-game/thumbnail.png"
-    url: "https://github.com/FairyBytes/snake-game"
+    code: "https://github.com/FairyBytes/snake-game"
     subject: cs
     
   - title: "Replication of Origin in Mitochondria"
     subtitle: "Bioinformatics Research"
     thumbnail: ""
-    url: "https://github.com/mitoOri"
+    code: "https://github.com/mitoOri"
     subject: cs

@@ -53,6 +53,12 @@ h4 {
   text-align: center; }
 
 /*  ================ Project styling  ================ */
+.project {
+  margin-bottom: 20px 
+}
+.project p {
+  margin-bottom: 2px 
+}
 .project-container {
   margin-bottom: 30px;
 }
@@ -69,6 +75,17 @@ h4 {
 }
 .project-caption {
   padding: 3px;
+}
+.project-buttons {
+  margin-top: 5px 
+}
+.project .button {
+  display: inline-block;
+  height: 25px;
+  padding: 0 25px;
+  font-weight: 100;
+  line-height: 25px;
+  text-transform: none; 
 }
 
 /* Larger than phone */
