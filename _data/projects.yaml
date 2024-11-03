@@ -24,7 +24,7 @@ projects:
     subtitle: "2D Mobile Game Development"
     thumbnail: "assets/projects/2024_grinnell-college-experience/thumbnail.png"
     url: "https://softarchitech.cs.grinnell.edu/the-grinnell-college-experience/"
-    code: "https://github.com/The-Grinnell-College-Experience-Team"
+    code: "https://github.com/The-Grinnell-College-Experience-Team/GCE-Backend"
     subject: cs
 
   - title: "An Artificial Language Learning Exploration in Affix Experiments"
