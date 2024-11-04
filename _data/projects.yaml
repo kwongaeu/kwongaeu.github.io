@@ -10,7 +10,7 @@ projects:
 
   - title: "Hypocoristic Formation Rules in Korean"
     subtitle: "Morphology Data Analysis"
-    thumbnail: ""
+    thumbnail: "assets/projects/2024_hypocorism-korean/thumbnail.jpg"
     url: ""
     subject: lin
 
@@ -28,14 +28,14 @@ projects:
     subject: cs
 
   - title: "An Artificial Language Learning Exploration in Affix Experiments"
-    subtitle: "Literature review"
-    thumbnail: ""
+    subtitle: "Literature Review of Artificial Language Learning"
+    thumbnail: "assets/projects/2024_artificial-language/thumbnail.jpg"
     url: ""
     subject: lin
 
   - title: "Pedagogical Implication of Digital Games in Second Language Acquisition"
-    subtitle: "Literature review"
-    thumbnail: "assets/projects/2023_gbl-sla/poster.JPG"
+    subtitle: "Literature Review of Second Language Acquisition"
+    thumbnail: "assets/projects/2023_gbl-sla/thumbnail.jpg"
     poster: "assets/projects/2023_gbl-sla/poster.JPG"
     subject: lin
 
@@ -47,6 +47,6 @@ projects:
     
   - title: "Replication of Origin in Mitochondria"
     subtitle: "Bioinformatics Research"
-    thumbnail: ""
+    thumbnail: "/assets/projects/2021_mitoOri/thumbnail.jpg"
     code: "https://github.com/mitoOri"
     subject: cs

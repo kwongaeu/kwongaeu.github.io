@@ -17,7 +17,10 @@ papers:
   - title: "Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance"
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
     venue: "EMNLP 2024 Findings"
-    paper_pdf: ""
+    paper_pdf: "https://openreview.net/forum?id=eUCxcWsha8#discussion"
+    slides: ""
+    poster: ""
+    code: ""
     subject: "nlp"
     selected: n
 
