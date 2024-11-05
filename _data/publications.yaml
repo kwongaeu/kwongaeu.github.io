@@ -27,7 +27,8 @@ papers:
   - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
     authors: "Eleanor Glewwe, Ariana Furlong<sup>‡</sup>, Lu Johnston<sup>‡</sup>, Tanmaie Kailash<sup>‡</sup>, <b>Gaeul Kwon<sup>‡</sup></b>, Zoe Zallek<sup>‡</sup>"
     venue: "Annual Meeting on Phonology 2024"
-    abstract: "/assets/publications/2024_pokemonastics_abstract.pdf"
+    abstract: "/assets/publications/2024_pokemonastics/abstract.pdf"
+    poster: "/assets/publications/2024_pokemonastics/poster.pdf"
     subject: "lin"
     selected: n
 
