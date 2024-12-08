@@ -16,20 +16,20 @@ papers:
 
   - title: "Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance"
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
-    venue: "EMNLP 2024 Findings"
-    paper_pdf: "https://openreview.net/forum?id=eUCxcWsha8#discussion"
-    slides: ""
-    poster: ""
+    venue: "Findings of the Association for Computational Linguistics: EMNLP 2024"
+    paper_pdf: "https://aclanthology.org/2024.findings-emnlp.554"
+    # slides: ""
+    poster: "/assets/publications/2024_tutor_icl/poster.pdf"
     code: ""
     subject: "nlp"
     selected: n
 
-  - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
-    authors: "Eleanor Glewwe, Ariana Furlong<sup>‡</sup>, Lu Johnston<sup>‡</sup>, Tanmaie Kailash<sup>‡</sup>, <b>Gaeul Kwon<sup>‡</sup></b>, Zoe Zallek<sup>‡</sup>"
-    venue: "Annual Meeting on Phonology 2024"
-    abstract: "/assets/publications/2024_pokemonastics/abstract.pdf"
-    poster: "/assets/publications/2024_pokemonastics/poster.pdf"
-    subject: "lin"
-    selected: n
+  # - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
+  #   authors: "Eleanor Glewwe, Ariana Furlong<sup>‡</sup>, Lu Johnston<sup>‡</sup>, Tanmaie Kailash<sup>‡</sup>, <b>Gaeul Kwon<sup>‡</sup></b>, Zoe Zallek<sup>‡</sup>"
+  #   venue: "Annual Meeting on Phonology 2024"
+  #   abstract: "/assets/publications/2024_pokemonastics/abstract.pdf"
+  #   poster: "/assets/publications/2024_pokemonastics/poster.pdf"
+  #   subject: "lin"
+  #   selected: n
 
 

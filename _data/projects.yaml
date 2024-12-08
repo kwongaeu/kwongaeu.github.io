@@ -8,22 +8,23 @@ projects:
     code: ""
     subject: cs
 
+  - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
+    subtitle: "Sound Symbolism Research (Presented at Annual Meeting on Phonology 2024)"
+    thumbnail: "assets/projects/2024_pokemonastics/thumbnail.png"
+    abstract: "/assets/publications/2024_pokemonastics/abstract.pdf"
+    poster: "/assets/publications/2024_pokemonastics/poster.pdf"
+    subject: lin
+
   - title: "Hypocoristic Formation Rules in Korean"
     subtitle: "Morphology Data Analysis"
     thumbnail: "assets/projects/2024_hypocorism-korean/thumbnail.jpg"
     url: ""
     subject: lin
 
-  # - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
-  #   subtitle: "Sound Symbolism Research"
-  #   thumbnail: "assets/projects/2024_pokemonastics/thumbnail.png"
-  #   url: "assets/projects/2024_pokemonastics/thumbnail.png"
-  #   subject: lin
-
   - title: "The Grinnell College Experience"
     subtitle: "2D Mobile Game Development"
     thumbnail: "assets/projects/2024_grinnell-college-experience/thumbnail.png"
-    url: "https://softarchitech.cs.grinnell.edu/the-grinnell-college-experience/"
+    blog: "https://softarchitech.cs.grinnell.edu/the-grinnell-college-experience/"
     code: "https://github.com/The-Grinnell-College-Experience-Team/GCE-Backend"
     subject: cs
 
@@ -39,11 +40,11 @@ projects:
     poster: "assets/projects/2023_gbl-sla/poster.JPG"
     subject: lin
 
-  - title: "Snake Game"
-    subtitle: "2D Game Development"
-    thumbnail: "assets/projects/2020_snake-game/thumbnail.png"
-    code: "https://github.com/FairyBytes/snake-game"
-    subject: cs
+  # - title: "Snake Game"
+  #   subtitle: "2D Game Development"
+  #   thumbnail: "assets/projects/2020_snake-game/thumbnail.png"
+  #   code: "https://github.com/FairyBytes/snake-game"
+  #   subject: cs
     
   - title: "Replication of Origin in Mitochondria"
     subtitle: "Bioinformatics Research"
