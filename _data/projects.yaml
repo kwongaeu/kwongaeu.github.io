@@ -46,7 +46,7 @@ projects:
   #   code: "https://github.com/FairyBytes/snake-game"
   #   subject: cs
     
-  - title: "Replication of Origin in Mitochondria"
+  - title: "Origin of Replication in Mitochondria"
     subtitle: "Bioinformatics Research"
     thumbnail: "/assets/projects/2021_mitoOri/thumbnail.jpg"
     code: "https://github.com/mitoOri"
