@@ -13,6 +13,16 @@ papers:
   #   code: "https://github.com/sanzeed/balanced_influence_maximization"
   #   data: "https://github.com/sanzeed/balanced_influence_maximization"
   #   selected: n
+    
+  - title: "Anonymous"
+    authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
+    venue: "Under Review at ACL 2025"
+    # paper_pdf: ""
+    # slides: ""
+    # poster: ""
+    # code: ""
+    subject: "nlp"
+    selected: n
 
   - title: "Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance"
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
@@ -24,12 +34,5 @@ papers:
     subject: "nlp"
     selected: n
 
-  # - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
-  #   authors: "Eleanor Glewwe, Ariana Furlong<sup>‡</sup>, Lu Johnston<sup>‡</sup>, Tanmaie Kailash<sup>‡</sup>, <b>Gaeul Kwon<sup>‡</sup></b>, Zoe Zallek<sup>‡</sup>"
-  #   venue: "Annual Meeting on Phonology 2024"
-  #   abstract: "/assets/publications/2024_pokemonastics/abstract.pdf"
-  #   poster: "/assets/publications/2024_pokemonastics/poster.pdf"
-  #   subject: "lin"
-  #   selected: n
 
 
