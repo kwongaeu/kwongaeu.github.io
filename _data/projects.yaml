@@ -1,5 +1,11 @@
 projects:
 
+  - title: "Constructed Language Grammatical Sketch"
+    subtitle: "Conlang Project"
+    thumbnail: ""
+    # poster: "assets/projects/2023_gbl-sla/poster.JPG"
+    subject: lin
+  
   - title: "Verification of Sim-to-Real Transfer in RL-based End-to-End Autonomous Racing Using Visual Domain Randomization"
     subtitle: "Reinforcement Learning-Based Autonomous Racing Research"
     thumbnail: "/assets/projects/2024_sim-to-real/thumbnail.jpg"
@@ -15,11 +21,11 @@ projects:
     poster: "/assets/publications/2024_pokemonastics/poster.pdf"
     subject: lin
 
-  - title: "Hypocoristic Formation Rules in Korean"
-    subtitle: "Morphology Data Analysis"
-    thumbnail: "assets/projects/2024_hypocorism-korean/thumbnail.jpg"
-    url: ""
-    subject: lin
+  # - title: "Hypocoristic Formation Rules in Korean"
+  #   subtitle: "Morphology Data Analysis"
+  #   thumbnail: "assets/projects/2024_hypocorism-korean/thumbnail.jpg"
+  #   url: ""
+  #   subject: lin
 
   - title: "The Grinnell College Experience"
     subtitle: "2D Mobile Game Development"
@@ -28,11 +34,11 @@ projects:
     code: "https://github.com/The-Grinnell-College-Experience-Team/GCE-Backend"
     subject: cs
 
-  - title: "An Artificial Language Learning Exploration in Affix Experiments"
-    subtitle: "Literature Review of Artificial Language Learning"
-    thumbnail: "assets/projects/2024_artificial-language/thumbnail.jpg"
-    url: ""
-    subject: lin
+  # - title: "An Artificial Language Learning Exploration in Affix Experiments"
+  #   subtitle: "Literature Review of Artificial Language Learning"
+  #   thumbnail: "assets/projects/2024_artificial-language/thumbnail.jpg"
+  #   url: ""
+  #   subject: lin
 
   - title: "Pedagogical Implication of Digital Games in Second Language Acquisition"
     subtitle: "Literature Review of Second Language Acquisition"
