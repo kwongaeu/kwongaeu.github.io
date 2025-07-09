@@ -6,17 +6,17 @@ experiences:
   subtitle: "Computer Science" 
   category: "school"
 
-- place: "University of Illinois Urbana-Champaign"
-  time: "Mar 2024 - <br/> Present"
-  title: "Research Assisstant"
-  subtitle: "Under the Mentorship of Ikhyun Cho <br/> (Ph.D. Student, 4th Year)"
-  category: "work"
-
 - place: "Grinnell College"
   time: "2019 - 2025"
   title: "B.A. Student"
   subtitle: "Computer Science (Linguistics Minor) <br/> Early Graduation (7 semesters)" 
   category: "school"
+
+- place: "University of Illinois Urbana-Champaign"
+  time: "Mar 2024 - <br/> Apr 2025"
+  title: "Research Assisstant"
+  subtitle: "Under the Mentorship of Ikhyun Cho <br/> (Ph.D. Student, 4th Year)"
+  category: "work"
 
 - place: "Texas A&M University"
   time: "May-Aug 2024"
