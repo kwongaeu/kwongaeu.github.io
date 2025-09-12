@@ -24,9 +24,9 @@ papers:
     subject: "lin"
     selected: n
 
-  - title: "Anonymous"
+  - title: "On the Versatility of Sparse Autoencoders for In-Context Learning"
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
-    venue: "Under Review at ACL 2025"
+    venue: "Findings of the Association for Computational Linguistics: EMNLP 2025"
     # paper_pdf: ""
     # slides: ""
     # poster: ""
