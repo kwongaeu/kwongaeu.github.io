@@ -13,21 +13,11 @@ papers:
   #   code: "https://github.com/sanzeed/balanced_influence_maximization"
   #   data: "https://github.com/sanzeed/balanced_influence_maximization"
   #   selected: n
-    
-  - title: "Productivity, universality, and cumulativity in sound symbolism: A Pokémonastics study of Georgian and English"
-    authors: "Eleanor Glewwe, Ariana Furlong<sup>‡</sup>, Lu Johnston<sup>‡</sup>, Tanmaie Kailash<sup>‡</sup>, <b>Gaeul Kwon<sup>‡</sup></b>, and Zoe Zallek<sup>‡</sup>"
-    venue: "Submitted to Laboratory Phonology"
-    # paper_pdf: ""
-    # slides: ""
-    # poster: ""
-    # code: ""
-    subject: "lin"
-    selected: n
 
   - title: "On the Versatility of Sparse Autoencoders for In-Context Learning"
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
     venue: "Findings of the Association for Computational Linguistics: EMNLP 2025"
-    # paper_pdf: ""
+    paper_pdf: "https://aclanthology.org/2025.findings-emnlp.1063"
     # slides: ""
     # poster: ""
     # code: ""
@@ -43,6 +33,16 @@ papers:
     code: ""
     subject: "nlp"
     selected: y
+
+  - title: "Productivity, universality, and cumulativity in sound symbolism: A Pokémonastics study of Georgian and English"
+    authors: "Eleanor Glewwe, Ariana Furlong<sup>‡</sup>, Lu Johnston<sup>‡</sup>, Tanmaie Kailash<sup>‡</sup>, <b>Gaeul Kwon<sup>‡</sup></b>, and Zoe Zallek<sup>‡</sup>"
+    venue: "Submitted to Laboratory Phonology"
+    # paper_pdf: ""
+    # slides: ""
+    # poster: ""
+    # code: ""
+    subject: "lin"
+    selected: n
 
 
 
