@@ -93,8 +93,11 @@ title: Home
 <div class="docs-section" id="experiences">
   <h4>Experiences</h4>
   <div class="tab-content">
-    {% assign research_experiences = site.data.experience_list.experiences
-      | where_exp: "item", "item.category == 'research' or item.category == 'industry'" %}
+    <!-- {% assign research_experiences = site.data.experience_list.experiences
+      | where_exp: "item", "item.category == 'research' or item.category == 'industry'" %} -->
+    {% assign research = site.data.experience_list.experiences | where: "category", "research" %}
+    {% assign industry = site.data.experience_list.experiences | where: "category", "industry" %}
+    {% assign research_experiences = research | concat: industry %}
     {% for experience in research_experiences %}
         <div class="experience">
           <div class="experience-content">
