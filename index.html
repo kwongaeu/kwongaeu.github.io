@@ -55,7 +55,7 @@ title: Home
       <p class="title"><b>{{ paper.title }}</b></p>
       <p>{{ paper.authors }}</p>
       <p><i>{{ paper.venue }}</i></p>
-        <div class="paper-buttons">
+      <div class="paper-buttons">
         {% if paper.abstract %}
           <a class="button" href="{{ paper.abstract | prepend: site.baseurl }}" target="_blank">Abstract</a>
         {% endif %}
@@ -228,7 +228,7 @@ title: Home
             <b>{{ award.title }}</b>, {{ award.place }} <span style="float:right;"> {{ award.time }}</span>
           </div>
         </div>
-        {% endfor %}
+    {% endfor %}
   </div>
 </div>
 
@@ -255,8 +255,8 @@ title: Home
       </div>
     </li>
     {% endfor %}
-  </ul>
-</div> -->
+  </ul> -->
+</div>
 
 <!-- <div class="docs-section" id="template">
   <h4>Website Design</h4>
