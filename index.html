@@ -8,13 +8,14 @@ title: Home
   <p>
   Hello! I am a first-year master's student in Computer Science at the University of Southern California, 
   where I work with Professor <a href="https://danielseita.github.io/">Daniel Seita</a> in the <a href="https://slurm-lab-usc.github.io/">SLURM Lab</a>.
+  I am also collaborating with the <a href="https://www.open-nn.com/">Neural Superintelligence</a>, supported by <a href="https://modulabs.co.kr/">MODULABS</a>.
   </p> 
 
   <p>
-  My research interests broadly lie in natural language processing (NLP) and human-robot interaction (HRI) including: 
-  (i) understanding how large language models acquire, represent, and adapt knowledge in context, 
-  (ii) improving the efficiency, robustness, and architecture of language and vision-language-action (VLA) models, 
-  and (iii) enabling reliable interaction between language-driven systems and humans or robots in real-world environments.
+  My research interests lie in <b>natural language processing (NLP)</b> and <b>human-robot interaction (HRI)</b> focusing on:<br>
+  (i) contextual knowledge acquisition and adaptation in large language models;<br>
+  (ii) efficient and robust language and vision-language-action (VLA) model architectures; and<br> 
+  (iii) reliable interaction between language-driven systems and humans or robots in real-world environments.
   </p>
 
   <p>
@@ -31,7 +32,7 @@ title: Home
           <p class="title"><b>University of Southern California<b style="float:right;">Aug 2025 - May 2027</b></b></p>
           
           <p>M.S. in Computer Science</p>
-          <!-- <p>(Advisors: <a href="https://eikmeier.sites.grinnell.edu/">Nicole Eikmeier</a> and <a href="https://eglewwe.com/">Eleanor Glewwe</a>)</p> -->
+          <p>(Research Advisor: <a href="https://danielseita.github.io/">Daniel Seita</a>)</p>
           <p></p>
         </div>
         <div class="paper">
@@ -93,10 +94,8 @@ title: Home
 <div class="docs-section" id="experiences">
   <h4>Experiences</h4>
   <div class="tab-content">
-    {% assign research = site.data.experience_list.experiences | where: "category", "research" %}
-    {% assign industry = site.data.experience_list.experiences | where: "category", "industry" %}
-    {% assign research_experiences = research | concat: industry %}
-    {% for experience in research_experiences %}
+    {% assign experiences = site.data.experience_list.experiences | where: "category", "experience" %}
+    {% for experience in experiences %}
         <div class="experience">
           <div class="experience-content">
             <b>{{ experience.role }}</b>, {{ experience.title }}<br>
