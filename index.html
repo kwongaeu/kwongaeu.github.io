@@ -102,7 +102,7 @@ title: Home
               <!-- {{ experience.time }}, {{ experience.place }} -->
           </div>
         </div>
-        {% endfor %}
+    {% endfor %}
     <br>
     <p>Below is a list of tech conferences where I provided technical explanation and interpretation support for startups.</p>
     {% assign conferences = site.data.experience_list.experiences | where: "category", "others" %}
@@ -113,8 +113,8 @@ title: Home
             {{ conference.topic }}</p>
           </div>
         </div>
-        {% endfor %}
-    </div>
+    {% endfor %}
+  </div>
 </div>
 
 <!-- ========== PROJECTS ========== -->
