@@ -90,35 +90,9 @@ title: Home
   {% endfor %}
 </div>
 
-<!-- ========== EXPERIENCES ========== -->
-<div class="docs-section" id="experiences">
-  <h4>Experiences</h4>
-  <div class="tab-content">
-    {% assign experiences = site.data.experience_list.experiences | where: "category", "experience" %}
-    {% for experience in experiences %}
-        <div class="experience">
-          <div class="experience-content">
-            <b>{{ experience.role }}</b>, {{ experience.title }}<br>
-              <!-- {{ experience.time }}, {{ experience.place }} -->
-          </div>
-        </div>
-    {% endfor %}
-    <br>
-    <p>Below is a list of tech conferences where I provided technical explanation and interpretation support for startups.</p>
-    {% assign conferences = site.data.experience_list.experiences | where: "category", "others" %}
-    {% for conference in conferences %}
-        <div class="conference">
-          <div class="conference-content">
-            <p><b>{{ conference.title }}</b>, <a href="{{ conference.url }}">{{ conference.company }}</a><br>
-            {{ conference.topic }}</p>
-          </div>
-        </div>
-    {% endfor %}
-  </div>
-</div>
 
 <!-- ========== PROJECTS ========== -->
-<!-- <div class="docs-section" id="projects">
+<div class="docs-section" id="projects">
   <h4>Projects</h4>
   <div class="tab-content">
     <h5>Computer Science</h5>
@@ -212,7 +186,36 @@ title: Home
         {% endfor %}
   </div>
 
-</div> -->
+</div>
+
+
+<!-- ========== EXPERIENCES ========== -->
+<div class="docs-section" id="experiences">
+  <h4>Experiences</h4>
+  <div class="tab-content">
+    {% assign experiences = site.data.experience_list.experiences | where: "category", "experience" %}
+    {% for experience in experiences %}
+        <div class="experience">
+          <div class="experience-content">
+            <b>{{ experience.role }}</b>, {{ experience.title }}<br>
+              <!-- {{ experience.time }}, {{ experience.place }} -->
+          </div>
+        </div>
+    {% endfor %}
+    <br>
+    <p>Below is a list of tech conferences where I provided technical explanation and interpretation support for startups.</p>
+    {% assign conferences = site.data.experience_list.experiences | where: "category", "others" %}
+    {% for conference in conferences %}
+        <div class="conference">
+          <div class="conference-content">
+            <p><b>{{ conference.title }}</b>, <a href="{{ conference.url }}">{{ conference.company }}</a><br>
+            {{ conference.topic }}</p>
+          </div>
+        </div>
+    {% endfor %}
+  </div>
+</div>
+
 
 <!-- ========== AWARDS ========== -->
 <div class="docs-section" id="awards">
