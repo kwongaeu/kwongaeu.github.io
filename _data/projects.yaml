@@ -2,7 +2,7 @@ projects:
 
   - title: "Reinforcement Learning with Symbolic Feedback for Physics-Based Motion Imitation"
     subtitle: "Deep Learning Project"
-    thumbnail: "/assets/projects/2025_symbolic-feedback/temp_thumbnail.jpg"
+    thumbnail: "/assets/projects/2025_symbolic-feedback/temp_thumbnail.png"
     # poster: "assets/projects/2023_gbl-sla/poster.JPG"
     subject: cs
 
