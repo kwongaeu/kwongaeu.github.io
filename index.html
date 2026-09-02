@@ -6,16 +6,19 @@ title: Home
 <div class="docs-section" id="about">
   <h4>About</h4>
   <p>
-  Hello! I am a first-year master's student in Computer Science at the University of Southern California, 
+  Hello! I am the second-year master's student in Computer Science at the University of Southern California, 
   where I work with Professor <a href="https://danielseita.github.io/">Daniel Seita</a> in the <a href="https://slurm-lab-usc.github.io/">SLURM Lab</a>.
-  I am also collaborating with the <a href="https://www.open-nn.com/">Neural Superintelligence</a>, supported by <a href="https://modulabs.co.kr/">MODULABS</a>.
   </p> 
 
   <p>
-  My research interests lie in <b>natural language processing (NLP)</b> and <b>human-robot interaction (HRI)</b> focusing on:<br>
-  (i) contextual knowledge acquisition and adaptation in large language models (LLMs);<br>
-  (ii) reasoning vision-language-action (VLA) model architectures; and<br> 
+  My research interests lie at the intersection of <b>reasoning models</b> and <b>world-model (WM) applications</b> for <b>robot manipulation</b> focusing on:<br>
+  (i) reasoning vision-language-action (VLA) model architectures; and<br> 
+  (ii) world-model (WM) verification for improving robustness of robot manipulation; and<br>
   (iii) reliable interaction between language-driven systems and humans or robots in real-world environments.
+  </p>
+
+  <p>
+  Previously, I worked on <b>in-context learning (ICL) for language models</b>, studying how large language models (LLMs) acquire and adapt to knowledge from their context.
   </p>
 
   <p>
@@ -210,6 +213,17 @@ title: Home
           <div class="conference-content">
             <p><b>{{ conference.title }}</b>, <a href="{{ conference.url }}">{{ conference.company }}</a><br>
             {{ conference.topic }}</p>
+          </div>
+        </div>
+    {% endfor %}
+
+    <br>
+    <p>Below is a list of projects I have mentored, where I provided structured feedback on research direction, methodology, and technical approaches.</p>
+    {% assign mentoring = site.data.experience_list.experiences | where: "category", "mentoring" %}
+    {% for project in mentoring %}
+        <div class="conference">
+          <div class="conference-content">
+            <p><b>{{ project.title }}</b>, {{ project.time }}</p>
           </div>
         </div>
     {% endfor %}
