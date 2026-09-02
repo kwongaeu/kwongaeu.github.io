@@ -1,5 +1,11 @@
 projects:
 
+  - title: "LLM Sycophancy in Multi-Turn Reasoning Dialogues"
+    subtitle: "Natural Language Dialogue Systems Project"
+    thumbnail: ""
+    # poster: "assets/projects/2023_gbl-sla/poster.JPG"
+    subject: cs
+
   - title: "Reinforcement Learning with Symbolic Feedback for Physics-Based Motion Imitation"
     subtitle: "Deep Learning Project"
     thumbnail: "/assets/projects/2025_symbolic-feedback/temp_thumbnail.png"

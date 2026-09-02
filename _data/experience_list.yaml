@@ -1,5 +1,9 @@
 experiences:
 
+  - title: "Investigating Domain Randomization Strategies for Robust RL in Simulated Robot Control"
+    time: "Summer 2026"
+    category: "mentoring"
+
   - title: "Sensing, Learning, and Understanding for Robotic Manipulation (SLURM) Lab, USC"
     time: "Oct 2025 - Present"
     place: "Los Angeles, CA"
