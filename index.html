@@ -110,6 +110,7 @@ title: Home
           <div class="project-content">
             <p class="title"><b>{{ project.title }}</b></p>
             <p>{{ project.subtitle }}</p>
+
             <div class="paper-buttons">
               {% if project.abstract %}
                 <a class="button" href="{{ project.abstract | prepend: site.baseurl }}" target="_blank">Abstract</a>
@@ -143,6 +144,14 @@ title: Home
                 <a class="button" href="{{ project.data }}" target="_blank">Data</a>
               {% endif %}
             </div>
+
+            {% if project.abstract_text %}
+              <details class="project-abstract">
+                <summary>Abstract</summary>
+                <p>{{ project.abstract_text | escape }}</p>
+              </details>
+            {% endif %}
+            
           </div>
         </div>
       {% endfor %}

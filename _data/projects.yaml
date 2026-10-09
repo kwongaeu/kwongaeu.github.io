@@ -1,21 +1,51 @@
 projects:
 
   - title: "Safe Dexterous Manipulation with ORCA Hand"
-    subtitle: "Autonomous Cyber-Physical Systems Project"
+    subtitle: "Autonomous Cyber-Physical Systems Project -- ongoing"
     thumbnail: "/assets/projects/2026_dexterous-manipulation/thumbnail.png"
     # poster: "assets/projects/2023_gbl-sla/poster.JPG"
+    abstract_text: >-
+      This project aims to develop a safe, multi-step robotic manipulation framework 
+      using an ORCA dexterous hand mounted on a robot arm. 
+      The proposed approach combines imitation learning for pick-and-place operations 
+      with reinforcement learning for contact-rich tool manipulation, 
+      using furniture assembly as a case study. 
+      A shared safety controller is designed to enforce motion constraints, 
+      collision checks, and visual progress verification. 
+      The project investigates how complementary learning methods 
+      and safety mechanisms can enable reliable manipulation in both simulated and real-world environments.
     subject: cs
 
   - title: "LLM Sycophancy in Multi-Turn Reasoning Dialogues"
     subtitle: "Natural Language Dialogue Systems Project"
     thumbnail: "/assets/projects/2026_llm-sycophancy/thumbnail.png"
     # poster: "assets/projects/2023_gbl-sla/poster.JPG"
+    abstract_text: >-
+      This project investigates how user authority influences sycophantic behavior in LLMs during multi-turn reasoning dialogues. 
+      We compare instruction-tuned and reasoning-oriented Qwen3 models under controlled dialogue settings, 
+      varying both the strength and temporal ordering of user authority. 
+      Using trajectory-based metrics, we analyze when and how frequently models 
+      change their responses under repeated user pressure. 
+      Our findings show that reasoning-oriented models generally demonstrate greater resistance to sycophancy, 
+      but remain vulnerable to strong authority cues. 
+      In particular, introducing strong authority early in a conversation leads to earlier 
+      and more frequent answer reversals, highlighting the importance of interaction dynamics in LLM reliability.
     subject: cs
 
   - title: "Reinforcement Learning with Symbolic Feedback for Physics-Based Motion Imitation"
     subtitle: "Deep Learning Project"
     thumbnail: "/assets/projects/2025_symbolic-feedback/temp_thumbnail.png"
     # poster: "assets/projects/2023_gbl-sla/poster.JPG"
+    abstract_text : >-
+      This project investigates symbolic feedback (SF) as a mechanism 
+      for incorporating interpretable behavioral structure into reinforcement learning for physics-based motion imitation. 
+      We introduce phase-based symbolic signals derived from motion alignment, stability, and temporal consistency, 
+      augmenting conventional imitation rewards without modifying the underlying policy architecture. 
+      Using the MimicKit framework, we evaluate symbolic feedback with PPO and AWR 
+      across challenging humanoid motion tasks under stochastic perturbations. 
+      Our experiments show that while improvements in cumulative rewards vary across tasks and algorithms, 
+      symbolic feedback consistently encourages progression toward higher-level behavioral phases, 
+      producing more structured and interpretable motion patterns.
     subject: cs
 
   # - title: "Constructed Language Grammatical Sketch"
@@ -30,6 +60,16 @@ projects:
     poster: "/assets/projects/2024_sim-to-real/poster.pdf"
     paper_pdf: ""
     code: ""
+    abstract_text: >-
+      This research investigates visual domain randomization for improving the sim-to-real transfer 
+      of reinforcement learning policies in autonomous racing. 
+      Eight autoencoder-based visual representations were trained under different lighting conditions, 
+      including variations in light direction, intensity, and shadows. 
+      The models were evaluated in the DonkeyCar simulator and transferred to a physical JetRacer on a figure-eight track. 
+      Experimental results showed that combining light-direction and shadow randomization 
+      improved real-world driving robustness compared with the baseline, 
+      particularly under changing illumination conditions. 
+      Additional experiments explored combining visual randomization with sensor and action randomization.
     subject: cs
 
   # - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
