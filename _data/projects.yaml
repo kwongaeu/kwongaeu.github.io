@@ -1,8 +1,14 @@
 projects:
 
+  - title: "Safe Dexterous Manipulation with ORCA Hand"
+    subtitle: "Autonomous Cyber-Physical Systems Project"
+    thumbnail: "/assets/projects/2026_dexterous-manipulation/thumbnail.png"
+    # poster: "assets/projects/2023_gbl-sla/poster.JPG"
+    subject: cs
+
   - title: "LLM Sycophancy in Multi-Turn Reasoning Dialogues"
     subtitle: "Natural Language Dialogue Systems Project"
-    thumbnail: ""
+    thumbnail: "/assets/projects/2026_llm-sycophancy/thumbnail.png"
     # poster: "assets/projects/2023_gbl-sla/poster.JPG"
     subject: cs
 
@@ -12,11 +18,11 @@ projects:
     # poster: "assets/projects/2023_gbl-sla/poster.JPG"
     subject: cs
 
-  - title: "Constructed Language Grammatical Sketch"
-    subtitle: "Conlang Project"
-    thumbnail: ""
-    # poster: "assets/projects/2023_gbl-sla/poster.JPG"
-    subject: lin
+  # - title: "Constructed Language Grammatical Sketch"
+  #   subtitle: "Conlang Project"
+  #   thumbnail: ""
+  #   # poster: "assets/projects/2023_gbl-sla/poster.JPG"
+  #   subject: lin
   
   - title: "Verification of Sim-to-Real Transfer in RL-based End-to-End Autonomous Racing Using Visual Domain Randomization"
     subtitle: "Reinforcement Learning-Based Autonomous Racing Research"
@@ -26,12 +32,12 @@ projects:
     code: ""
     subject: cs
 
-  - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
-    subtitle: "Sound Symbolism Research (Presented at Annual Meeting on Phonology 2024)"
-    thumbnail: "assets/projects/2024_pokemonastics/thumbnail.png"
-    abstract: "/assets/publications/2024_pokemonastics/abstract.pdf"
-    poster: "/assets/publications/2024_pokemonastics/poster.pdf"
-    subject: lin
+  # - title: "Productivity, Universality, and Cumulativity in Sound Symbolism: A Pokémonastics Study of Georgian and English"
+  #   subtitle: "Sound Symbolism Research (Presented at Annual Meeting on Phonology 2024)"
+  #   thumbnail: "assets/projects/2024_pokemonastics/thumbnail.png"
+  #   abstract: "/assets/publications/2024_pokemonastics/abstract.pdf"
+  #   poster: "/assets/publications/2024_pokemonastics/poster.pdf"
+  #   subject: lin
 
   # - title: "Hypocoristic Formation Rules in Korean"
   #   subtitle: "Morphology Data Analysis"
@@ -39,12 +45,12 @@ projects:
   #   url: ""
   #   subject: lin
 
-  - title: "The Grinnell College Experience"
-    subtitle: "2D Mobile Game Development"
-    thumbnail: "assets/projects/2024_grinnell-college-experience/thumbnail.png"
-    blog: "https://softarchitech.cs.grinnell.edu/the-grinnell-college-experience/"
-    code: "https://github.com/The-Grinnell-College-Experience-Team/GCE-Backend"
-    subject: cs
+  # - title: "The Grinnell College Experience"
+  #   subtitle: "2D Mobile Game Development"
+  #   thumbnail: "assets/projects/2024_grinnell-college-experience/thumbnail.png"
+  #   blog: "https://softarchitech.cs.grinnell.edu/the-grinnell-college-experience/"
+  #   code: "https://github.com/The-Grinnell-College-Experience-Team/GCE-Backend"
+  #   subject: cs
 
   # - title: "An Artificial Language Learning Exploration in Affix Experiments"
   #   subtitle: "Literature Review of Artificial Language Learning"
@@ -52,11 +58,11 @@ projects:
   #   url: ""
   #   subject: lin
 
-  - title: "Pedagogical Implication of Digital Games in Second Language Acquisition"
-    subtitle: "Literature Review of Second Language Acquisition"
-    thumbnail: "assets/projects/2023_gbl-sla/thumbnail.jpg"
-    poster: "assets/projects/2023_gbl-sla/poster.JPG"
-    subject: lin
+  # - title: "Pedagogical Implication of Digital Games in Second Language Acquisition"
+  #   subtitle: "Literature Review of Second Language Acquisition"
+  #   thumbnail: "assets/projects/2023_gbl-sla/thumbnail.jpg"
+  #   poster: "assets/projects/2023_gbl-sla/poster.JPG"
+  #   subject: lin
 
   # - title: "Snake Game"
   #   subtitle: "2D Game Development"
@@ -64,8 +70,8 @@ projects:
   #   code: "https://github.com/FairyBytes/snake-game"
   #   subject: cs
     
-  - title: "Origin of Replication in Mitochondria"
-    subtitle: "Bioinformatics Research"
-    thumbnail: "/assets/projects/2021_mitoOri/thumbnail.jpg"
-    code: "https://github.com/mitoOri"
-    subject: cs
+  # - title: "Origin of Replication in Mitochondria"
+  #   subtitle: "Bioinformatics Research"
+  #   thumbnail: "/assets/projects/2021_mitoOri/thumbnail.jpg"
+  #   code: "https://github.com/mitoOri"
+  #   subject: cs

@@ -1,5 +1,12 @@
 experiences:
 
+  - title: "StudyFetch Inc."
+    time: "Oct 2026 - Present"
+    place: "Beverly Hills, CA"
+    role: "AI Research Assistant - Machine Learning & AI"
+    topic: ""
+    category: "experience"
+  
   - title: "Investigating Domain Randomization Strategies for Robust RL in Simulated Robot Control"
     time: "Summer 2026"
     category: "mentoring"
@@ -11,12 +18,12 @@ experiences:
     topic: ""
     category: "experience"
   
-  - title: "Neural Intelligence Lab, MODULAB"
-    time: "Dec 2025 - Present"
-    place: "Remote"
-    role: "NLP Research Collaborator"
-    topic: ""
-    category: "experience"
+  # - title: "Neural Intelligence Lab, MODULAB"
+  #   time: "Dec 2025 - Present"
+  #   place: "Remote"
+  #   role: "NLP Research Collaborator"
+  #   topic: ""
+  #   category: "experience"
 
   - title: "University of Illinois Urbana-Champaign"
     time: "Mar 2024 - Apr 2025"
