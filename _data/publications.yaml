@@ -36,13 +36,13 @@ papers:
 
   - title: "Productivity, universality, and cumulativity in sound symbolism: A Pokémonastics study of Georgian and English"
     authors: "Eleanor Glewwe, Ariana Furlong<sup>‡</sup>, Lu Johnston<sup>‡</sup>, Tanmaie Kailash<sup>‡</sup>, <b>Gaeul Kwon<sup>‡</sup></b>, and Zoe Zallek<sup>‡</sup>"
-    venue: "Under Review at Laboratory Phonology"
+    venue: "Journal of the Association for Laboratory Phonology: LabPhon"
     # paper_pdf: ""
     # slides: ""
     # poster: ""
     # code: ""
     subject: "lin"
-    selected: n
+    selected: y
 
 
 
