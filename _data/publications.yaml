@@ -14,6 +14,16 @@ papers:
   #   data: "https://github.com/sanzeed/balanced_influence_maximization"
   #   selected: n
 
+  - title: "Rethinking Layer Redundancy in Large Language Models: Calibration Objectives and Search for Depth Pruning"
+    authors: "Minkyu Kim, Vincent-Daniel Yun, Youngrae Kim, Youngjin Heo, Suin Cho, Seong-hun Kim, Woosang Lim, <b>Gaeul Kwon</b>"
+    venue: "AdaptFM: Resource-Adaptive Foundation Model Inference"
+    paper_pdf: "https://openreview.net/challenge?redirect=%2Fpdf%3Fid%3DQuWWYol2nP"
+    # slides: ""
+    # poster: ""
+    # code: ""
+    subject: "nlp"
+    selected: y
+
   - title: "On the Versatility of Sparse Autoencoders for In-Context Learning"
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
     venue: "Findings of the Association for Computational Linguistics: EMNLP 2025"
@@ -22,7 +32,7 @@ papers:
     # poster: ""
     # code: ""
     subject: "nlp"
-    selected: n
+    selected: y
 
   - title: "Tutor-ICL: Guiding Large Language Models for Improved In-Context Learning Performance"
     authors: "Ikhyun Cho, <b>Gaeul Kwon</b>, Julia Hockenmaier"
