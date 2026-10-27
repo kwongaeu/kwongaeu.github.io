@@ -16,8 +16,8 @@ papers:
 
   - title: "Rethinking Layer Redundancy in Large Language Models: Calibration Objectives and Search for Depth Pruning"
     authors: "Minkyu Kim, Vincent-Daniel Yun, Youngrae Kim, Youngjin Heo, Suin Cho, Seong-hun Kim, Woosang Lim, <b>Gaeul Kwon</b>"
-    venue: "AdaptFM: Resource-Adaptive Foundation Model Inference"
-    paper_pdf: "https://openreview.net/challenge?redirect=%2Fpdf%3Fid%3DQuWWYol2nP"
+    venue: "AdaptFM: Resource-Adaptive Foundation Model Inference (ICML 2026 Workshop)"
+    paper_pdf: "https://arxiv.org/html/2604.24938v2"
     # slides: ""
     # poster: ""
     # code: ""
@@ -46,7 +46,7 @@ papers:
 
   - title: "Productivity, universality, and cumulativity in sound symbolism: A Pokémonastics study of Georgian and English"
     authors: "Eleanor Glewwe, Ariana Furlong<sup>‡</sup>, Lu Johnston<sup>‡</sup>, Tanmaie Kailash<sup>‡</sup>, <b>Gaeul Kwon<sup>‡</sup></b>, and Zoe Zallek<sup>‡</sup>"
-    venue: "Journal of the Association for Laboratory Phonology: LabPhon"
+    venue: "Journal of the Association for Laboratory Phonology: LabPhon (Presented at Annual Meeting on Phonology 2024)"
     # paper_pdf: ""
     # slides: ""
     # poster: ""
